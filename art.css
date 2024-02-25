@@ -102,8 +102,9 @@ i:hover{
 #firstpic{
     height: 60%;
     width: 60%;
-    background-image: url("https://scontent.fbho3-3.fna.fbcdn.net/v/t39.30808-6/356250054_593175729587696_499626393756092932_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=49d041&_nc_ohc=XWsqQYQkH1gAX_XEvE9&_nc_ht=scontent.fbho3-3.fna&oh=00_AfB0vrRoD9Afdpt5WXSr0xECXT5E5FfxyRWwULhhKBQx2A&oe=65193EB0");
-    background-position:center;   
+    background-image: url("https://assets-global.website-files.com/62bb0a9586616e19ecbb2448/6499808619b50016c0a165c8_cover-image.webp");
+    background-position:center;
+    background-size: cover;   
 }
 
 #circle{
